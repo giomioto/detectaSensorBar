@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1699444356 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1699444576 c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1699444586 c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\imagem.h
+
+1699444596 c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\trabalho3.h
+	"imagem.h"
+
+1699444648 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1702397127 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1702398977 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\t3-2603403-2603470-2603454.c
+	"trabalho3.h"
+	"imagem.h"
+	<limits.h>
+	<math.h>
+
+1702075579 source:c:\users\pc\desktop\utfpr\1_periodo\fundamentos_de_programacao\projeto_03\projeto_teste.c
+	"gerador_de_testes.h"
+	"imagem.h"
+	"trabalho3.h"
+	<math.h>
+	<stdlib.h>
+
